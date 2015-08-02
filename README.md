@@ -5,6 +5,10 @@ There are two Java packages, “HotReloadLibrary,” and “DemoFiles.”  All of the fi
 Any files that reside in “DemoFiles” relate to the demo JavaFX program and are not needed (however, they do show how to implement the library past the supplied instructions).
 
 
+Video of library in action:
+
+	https://www.youtube.com/watch?v=8aTuv_lADts
+
 
 Quick Library Implementation Guide
 --------------------------------------------
