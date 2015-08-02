@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import java.lang.*?>
+<?import java.util.*?>
+<?import javafx.scene.*?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+
+<AnchorPane id="thisWindow" fx:id="thisWindow" minHeight="-Infinity" prefHeight="66.0" prefWidth="335.0" xmlns="http://javafx.com/javafx/8" xmlns:fx="http://javafx.com/fxml/1" fx:controller="HotReloadLibrary.HotReloadFrontend">
+   <children>
+      <Button id="buttonReload" fx:id="buttonReload" layoutX="89.0" layoutY="33.0" mnemonicParsing="false" onAction="#EventCallback_ButtonReloadPressed" text="Hot Reload Active Window" />
+      <Label layoutX="28.0" />
+      <Separator layoutX="-4.0" layoutY="13.0" prefHeight="9.0" prefWidth="348.0" />
+   </children>
+</AnchorPane>

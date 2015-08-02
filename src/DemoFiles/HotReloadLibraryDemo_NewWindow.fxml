@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import java.lang.*?>
+<?import java.util.*?>
+<?import javafx.scene.*?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+
+
+<AnchorPane id="windowDemo" prefHeight="367.0" prefWidth="600.0" xmlns:fx="http://javafx.com/fxml/1" xmlns="http://javafx.com/javafx/8" fx:controller="DemoFiles.HotReloadLibraryDemo_NewWindow">
+   <children>
+      <Label layoutX="80.0" layoutY="166.0" text="You clicked the demo button! I am the new active window. &#10;&#10;Change &quot;NewDemoWindow.css&quot; and hit the &quot;Hot Reload Active Window&quot; button to&#10;change the way that I look!&#10;" />
+   </children>
+</AnchorPane>
